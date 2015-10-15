@@ -7,6 +7,7 @@ public class Main {
 		// Miric ponovo jase!
 		// Jase pored StojSase!
 		// I ne boji se kase!
+		// jebeni push
 	}
 
 }
