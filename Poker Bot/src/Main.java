@@ -4,7 +4,7 @@ public class Main {
 		System.out.println("RADI PRVI PUT");
 		System.out.println("RADI DRUGI PUT");
 		System.out.println("RASICU PEDERU! ");
-		//ooo jebemu leba vise
+		// Miric ponovo jase!
 	}
 
 }
