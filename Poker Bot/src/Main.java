@@ -7,10 +7,7 @@ public class Main {
 		// Miric ponovo jase!
 		// Jase pored StojSase!
 		// I ne boji se kase!
-		// jebeni push
-		//ajmo miricuuuuu - rasic konj i magarac
-		//proba test proba test jen dva tri
-		/// samo necural bajo moj
+		// Poslednja promena za danas!
 	}
 
 }
