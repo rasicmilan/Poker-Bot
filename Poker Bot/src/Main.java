@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("MARKOVICU PEDERU! ");
 		// Miric ponovo jase!
 		// Jase pored StojSase!
+		// I ne boji se kase!
 	}
 
 }
