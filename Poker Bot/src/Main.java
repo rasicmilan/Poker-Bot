@@ -10,6 +10,7 @@ public class Main {
 		// jebeni push
 		//ajmo miricuuuuu - rasic konj i magarac
 		//proba test proba test jen dva tri
+		/// samo necural bajo moj
 	}
 
 }
