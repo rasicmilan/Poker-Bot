@@ -8,6 +8,8 @@ public class Main {
 		// Jase pored StojSase!
 		// I ne boji se kase!
 		// jebeni push
+		//ajmo miricuuuuu - rasic konj i magarac
+		//proba test proba test jen dva tri
 	}
 
 }
